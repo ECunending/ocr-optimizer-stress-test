@@ -1,0 +1,7 @@
+{
+  "data_split": "passed",
+  "matching_logits_max_error": 1.5265566588595902e-16,
+  "adam_adamw_zero_decay_max_error": 0.0,
+  "gradient_checks": "passed",
+  "margin_shift_invariance": "passed"
+}

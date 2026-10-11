@@ -1,0 +1,810 @@
+{
+  "data_seed": 1729,
+  "n_groups": 20,
+  "subjects_per_group": 4,
+  "observed_implications_per_group": 1,
+  "train": [
+    {
+      "subject": 61,
+      "relation": 80,
+      "answer": 0
+    },
+    {
+      "subject": 61,
+      "relation": 81,
+      "answer": 20
+    },
+    {
+      "subject": 21,
+      "relation": 80,
+      "answer": 0
+    },
+    {
+      "subject": 25,
+      "relation": 80,
+      "answer": 0
+    },
+    {
+      "subject": 5,
+      "relation": 80,
+      "answer": 0
+    },
+    {
+      "subject": 57,
+      "relation": 80,
+      "answer": 1
+    },
+    {
+      "subject": 57,
+      "relation": 81,
+      "answer": 21
+    },
+    {
+      "subject": 40,
+      "relation": 80,
+      "answer": 1
+    },
+    {
+      "subject": 17,
+      "relation": 80,
+      "answer": 1
+    },
+    {
+      "subject": 64,
+      "relation": 80,
+      "answer": 1
+    },
+    {
+      "subject": 33,
+      "relation": 80,
+      "answer": 2
+    },
+    {
+      "subject": 33,
+      "relation": 81,
+      "answer": 22
+    },
+    {
+      "subject": 12,
+      "relation": 80,
+      "answer": 2
+    },
+    {
+      "subject": 71,
+      "relation": 80,
+      "answer": 2
+    },
+    {
+      "subject": 72,
+      "relation": 80,
+      "answer": 2
+    },
+    {
+      "subject": 27,
+      "relation": 80,
+      "answer": 3
+    },
+    {
+      "subject": 27,
+      "relation": 81,
+      "answer": 23
+    },
+    {
+      "subject": 11,
+      "relation": 80,
+      "answer": 3
+    },
+    {
+      "subject": 8,
+      "relation": 80,
+      "answer": 3
+    },
+    {
+      "subject": 7,
+      "relation": 80,
+      "answer": 3
+    },
+    {
+      "subject": 63,
+      "relation": 80,
+      "answer": 4
+    },
+    {
+      "subject": 63,
+      "relation": 81,
+      "answer": 24
+    },
+    {
+      "subject": 62,
+      "relation": 80,
+      "answer": 4
+    },
+    {
+      "subject": 16,
+      "relation": 80,
+      "answer": 4
+    },
+    {
+      "subject": 54,
+      "relation": 80,
+      "answer": 4
+    },
+    {
+      "subject": 38,
+      "relation": 80,
+      "answer": 5
+    },
+    {
+      "subject": 38,
+      "relation": 81,
+      "answer": 25
+    },
+    {
+      "subject": 10,
+      "relation": 80,
+      "answer": 5
+    },
+    {
+      "subject": 35,
+      "relation": 80,
+      "answer": 5
+    },
+    {
+      "subject": 37,
+      "relation": 80,
+      "answer": 5
+    },
+    {
+      "subject": 44,
+      "relation": 80,
+      "answer": 6
+    },
+    {
+      "subject": 44,
+      "relation": 81,
+      "answer": 26
+    },
+    {
+      "subject": 43,
+      "relation": 80,
+      "answer": 6
+    },
+    {
+      "subject": 23,
+      "relation": 80,
+      "answer": 6
+    },
+    {
+      "subject": 74,
+      "relation": 80,
+      "answer": 6
+    },
+    {
+      "subject": 58,
+      "relation": 80,
+      "answer": 7
+    },
+    {
+      "subject": 58,
+      "relation": 81,
+      "answer": 27
+    },
+    {
+      "subject": 31,
+      "relation": 80,
+      "answer": 7
+    },
+    {
+      "subject": 2,
+      "relation": 80,
+      "answer": 7
+    },
+    {
+      "subject": 59,
+      "relation": 80,
+      "answer": 7
+    },
+    {
+      "subject": 41,
+      "relation": 80,
+      "answer": 8
+    },
+    {
+      "subject": 41,
+      "relation": 81,
+      "answer": 28
+    },
+    {
+      "subject": 18,
+      "relation": 80,
+      "answer": 8
+    },
+    {
+      "subject": 22,
+      "relation": 80,
+      "answer": 8
+    },
+    {
+      "subject": 70,
+      "relation": 80,
+      "answer": 8
+    },
+    {
+      "subject": 0,
+      "relation": 80,
+      "answer": 9
+    },
+    {
+      "subject": 0,
+      "relation": 81,
+      "answer": 29
+    },
+    {
+      "subject": 42,
+      "relation": 80,
+      "answer": 9
+    },
+    {
+      "subject": 39,
+      "relation": 80,
+      "answer": 9
+    },
+    {
+      "subject": 75,
+      "relation": 80,
+      "answer": 9
+    },
+    {
+      "subject": 50,
+      "relation": 80,
+      "answer": 10
+    },
+    {
+      "subject": 50,
+      "relation": 81,
+      "answer": 30
+    },
+    {
+      "subject": 29,
+      "relation": 80,
+      "answer": 10
+    },
+    {
+      "subject": 34,
+      "relation": 80,
+      "answer": 10
+    },
+    {
+      "subject": 26,
+      "relation": 80,
+      "answer": 10
+    },
+    {
+      "subject": 20,
+      "relation": 80,
+      "answer": 11
+    },
+    {
+      "subject": 20,
+      "relation": 81,
+      "answer": 31
+    },
+    {
+      "subject": 73,
+      "relation": 80,
+      "answer": 11
+    },
+    {
+      "subject": 60,
+      "relation": 80,
+      "answer": 11
+    },
+    {
+      "subject": 78,
+      "relation": 80,
+      "answer": 11
+    },
+    {
+      "subject": 28,
+      "relation": 80,
+      "answer": 12
+    },
+    {
+      "subject": 28,
+      "relation": 81,
+      "answer": 32
+    },
+    {
+      "subject": 53,
+      "relation": 80,
+      "answer": 12
+    },
+    {
+      "subject": 46,
+      "relation": 80,
+      "answer": 12
+    },
+    {
+      "subject": 55,
+      "relation": 80,
+      "answer": 12
+    },
+    {
+      "subject": 15,
+      "relation": 80,
+      "answer": 13
+    },
+    {
+      "subject": 15,
+      "relation": 81,
+      "answer": 33
+    },
+    {
+      "subject": 13,
+      "relation": 80,
+      "answer": 13
+    },
+    {
+      "subject": 51,
+      "relation": 80,
+      "answer": 13
+    },
+    {
+      "subject": 24,
+      "relation": 80,
+      "answer": 13
+    },
+    {
+      "subject": 14,
+      "relation": 80,
+      "answer": 14
+    },
+    {
+      "subject": 14,
+      "relation": 81,
+      "answer": 34
+    },
+    {
+      "subject": 19,
+      "relation": 80,
+      "answer": 14
+    },
+    {
+      "subject": 32,
+      "relation": 80,
+      "answer": 14
+    },
+    {
+      "subject": 79,
+      "relation": 80,
+      "answer": 14
+    },
+    {
+      "subject": 49,
+      "relation": 80,
+      "answer": 15
+    },
+    {
+      "subject": 49,
+      "relation": 81,
+      "answer": 35
+    },
+    {
+      "subject": 66,
+      "relation": 80,
+      "answer": 15
+    },
+    {
+      "subject": 65,
+      "relation": 80,
+      "answer": 15
+    },
+    {
+      "subject": 52,
+      "relation": 80,
+      "answer": 15
+    },
+    {
+      "subject": 76,
+      "relation": 80,
+      "answer": 16
+    },
+    {
+      "subject": 76,
+      "relation": 81,
+      "answer": 36
+    },
+    {
+      "subject": 69,
+      "relation": 80,
+      "answer": 16
+    },
+    {
+      "subject": 47,
+      "relation": 80,
+      "answer": 16
+    },
+    {
+      "subject": 68,
+      "relation": 80,
+      "answer": 16
+    },
+    {
+      "subject": 48,
+      "relation": 80,
+      "answer": 17
+    },
+    {
+      "subject": 48,
+      "relation": 81,
+      "answer": 37
+    },
+    {
+      "subject": 45,
+      "relation": 80,
+      "answer": 17
+    },
+    {
+      "subject": 1,
+      "relation": 80,
+      "answer": 17
+    },
+    {
+      "subject": 30,
+      "relation": 80,
+      "answer": 17
+    },
+    {
+      "subject": 6,
+      "relation": 80,
+      "answer": 18
+    },
+    {
+      "subject": 6,
+      "relation": 81,
+      "answer": 38
+    },
+    {
+      "subject": 67,
+      "relation": 80,
+      "answer": 18
+    },
+    {
+      "subject": 3,
+      "relation": 80,
+      "answer": 18
+    },
+    {
+      "subject": 77,
+      "relation": 80,
+      "answer": 18
+    },
+    {
+      "subject": 9,
+      "relation": 80,
+      "answer": 19
+    },
+    {
+      "subject": 9,
+      "relation": 81,
+      "answer": 39
+    },
+    {
+      "subject": 4,
+      "relation": 80,
+      "answer": 19
+    },
+    {
+      "subject": 36,
+      "relation": 80,
+      "answer": 19
+    },
+    {
+      "subject": 56,
+      "relation": 80,
+      "answer": 19
+    }
+  ],
+  "test": [
+    {
+      "subject": 21,
+      "relation": 81,
+      "answer": 20
+    },
+    {
+      "subject": 25,
+      "relation": 81,
+      "answer": 20
+    },
+    {
+      "subject": 5,
+      "relation": 81,
+      "answer": 20
+    },
+    {
+      "subject": 40,
+      "relation": 81,
+      "answer": 21
+    },
+    {
+      "subject": 17,
+      "relation": 81,
+      "answer": 21
+    },
+    {
+      "subject": 64,
+      "relation": 81,
+      "answer": 21
+    },
+    {
+      "subject": 12,
+      "relation": 81,
+      "answer": 22
+    },
+    {
+      "subject": 71,
+      "relation": 81,
+      "answer": 22
+    },
+    {
+      "subject": 72,
+      "relation": 81,
+      "answer": 22
+    },
+    {
+      "subject": 11,
+      "relation": 81,
+      "answer": 23
+    },
+    {
+      "subject": 8,
+      "relation": 81,
+      "answer": 23
+    },
+    {
+      "subject": 7,
+      "relation": 81,
+      "answer": 23
+    },
+    {
+      "subject": 62,
+      "relation": 81,
+      "answer": 24
+    },
+    {
+      "subject": 16,
+      "relation": 81,
+      "answer": 24
+    },
+    {
+      "subject": 54,
+      "relation": 81,
+      "answer": 24
+    },
+    {
+      "subject": 10,
+      "relation": 81,
+      "answer": 25
+    },
+    {
+      "subject": 35,
+      "relation": 81,
+      "answer": 25
+    },
+    {
+      "subject": 37,
+      "relation": 81,
+      "answer": 25
+    },
+    {
+      "subject": 43,
+      "relation": 81,
+      "answer": 26
+    },
+    {
+      "subject": 23,
+      "relation": 81,
+      "answer": 26
+    },
+    {
+      "subject": 74,
+      "relation": 81,
+      "answer": 26
+    },
+    {
+      "subject": 31,
+      "relation": 81,
+      "answer": 27
+    },
+    {
+      "subject": 2,
+      "relation": 81,
+      "answer": 27
+    },
+    {
+      "subject": 59,
+      "relation": 81,
+      "answer": 27
+    },
+    {
+      "subject": 18,
+      "relation": 81,
+      "answer": 28
+    },
+    {
+      "subject": 22,
+      "relation": 81,
+      "answer": 28
+    },
+    {
+      "subject": 70,
+      "relation": 81,
+      "answer": 28
+    },
+    {
+      "subject": 42,
+      "relation": 81,
+      "answer": 29
+    },
+    {
+      "subject": 39,
+      "relation": 81,
+      "answer": 29
+    },
+    {
+      "subject": 75,
+      "relation": 81,
+      "answer": 29
+    },
+    {
+      "subject": 29,
+      "relation": 81,
+      "answer": 30
+    },
+    {
+      "subject": 34,
+      "relation": 81,
+      "answer": 30
+    },
+    {
+      "subject": 26,
+      "relation": 81,
+      "answer": 30
+    },
+    {
+      "subject": 73,
+      "relation": 81,
+      "answer": 31
+    },
+    {
+      "subject": 60,
+      "relation": 81,
+      "answer": 31
+    },
+    {
+      "subject": 78,
+      "relation": 81,
+      "answer": 31
+    },
+    {
+      "subject": 53,
+      "relation": 81,
+      "answer": 32
+    },
+    {
+      "subject": 46,
+      "relation": 81,
+      "answer": 32
+    },
+    {
+      "subject": 55,
+      "relation": 81,
+      "answer": 32
+    },
+    {
+      "subject": 13,
+      "relation": 81,
+      "answer": 33
+    },
+    {
+      "subject": 51,
+      "relation": 81,
+      "answer": 33
+    },
+    {
+      "subject": 24,
+      "relation": 81,
+      "answer": 33
+    },
+    {
+      "subject": 19,
+      "relation": 81,
+      "answer": 34
+    },
+    {
+      "subject": 32,
+      "relation": 81,
+      "answer": 34
+    },
+    {
+      "subject": 79,
+      "relation": 81,
+      "answer": 34
+    },
+    {
+      "subject": 66,
+      "relation": 81,
+      "answer": 35
+    },
+    {
+      "subject": 65,
+      "relation": 81,
+      "answer": 35
+    },
+    {
+      "subject": 52,
+      "relation": 81,
+      "answer": 35
+    },
+    {
+      "subject": 69,
+      "relation": 81,
+      "answer": 36
+    },
+    {
+      "subject": 47,
+      "relation": 81,
+      "answer": 36
+    },
+    {
+      "subject": 68,
+      "relation": 81,
+      "answer": 36
+    },
+    {
+      "subject": 45,
+      "relation": 81,
+      "answer": 37
+    },
+    {
+      "subject": 1,
+      "relation": 81,
+      "answer": 37
+    },
+    {
+      "subject": 30,
+      "relation": 81,
+      "answer": 37
+    },
+    {
+      "subject": 67,
+      "relation": 81,
+      "answer": 38
+    },
+    {
+      "subject": 3,
+      "relation": 81,
+      "answer": 38
+    },
+    {
+      "subject": 77,
+      "relation": 81,
+      "answer": 38
+    },
+    {
+      "subject": 4,
+      "relation": 81,
+      "answer": 39
+    },
+    {
+      "subject": 36,
+      "relation": 81,
+      "answer": 39
+    },
+    {
+      "subject": 56,
+      "relation": 81,
+      "answer": 39
+    }
+  ]
+}

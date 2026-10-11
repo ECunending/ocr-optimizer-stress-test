@@ -1,0 +1,34 @@
+{
+  "config": {
+    "kind": "factorized",
+    "optimizer": "gd",
+    "lr": 0.1,
+    "wd": 0.0,
+    "seed": 100,
+    "steps": 5000,
+    "thresholds": [
+      0.1,
+      0.03,
+      0.01
+    ],
+    "log_every": 100
+  },
+  "initial_logit_error": 1.214306433183765e-16,
+  "stable": true,
+  "elapsed_seconds": 0.7151762919966131,
+  "crossings": {
+    "0.1": {
+      "step": 2320,
+      "train_ce": 0.09998925155072338
+    },
+    "0.03": {
+      "step": 3542,
+      "train_ce": 0.029996225742755823
+    }
+  },
+  "final": {
+    "train_ce": 0.01503387440652461,
+    "train_accuracy": 1.0
+  },
+  "history": []
+}

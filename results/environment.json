@@ -1,0 +1,8 @@
+{
+  "python": "3.11.4",
+  "torch": "2.14.1",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "threads": 1,
+  "dtype": "float64",
+  "device": "cpu"
+}

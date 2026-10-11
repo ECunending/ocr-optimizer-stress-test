@@ -1,0 +1,25 @@
+{
+  "config": {
+    "kind": "direct",
+    "optimizer": "gd",
+    "lr": 0.01,
+    "wd": 0.0,
+    "seed": 100,
+    "steps": 5000,
+    "thresholds": [
+      0.1,
+      0.03,
+      0.01
+    ],
+    "log_every": 100
+  },
+  "initial_logit_error": 1.214306433183765e-16,
+  "stable": true,
+  "elapsed_seconds": 0.5498438752256334,
+  "crossings": {},
+  "final": {
+    "train_ce": 2.82211012469961,
+    "train_accuracy": 1.0
+  },
+  "history": []
+}

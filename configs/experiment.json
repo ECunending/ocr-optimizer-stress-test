@@ -1,0 +1,10 @@
+{
+  "seeds": [0, 1, 2, 3, 4],
+  "pilot_seed": 100,
+  "pilot_steps": 5000,
+  "steps": 20000,
+  "thresholds": [0.1, 0.03, 0.01],
+  "learning_rates": {"gd": [0.01, 0.1, 1.0], "adam": [0.0001, 0.001, 0.01]},
+  "weight_decays": [0.01, 0.03],
+  "selection": "Stable candidate with lowest final training CE, separately per parameterization and optimizer; no test evaluation in pilot. AdamW inherits Adam learning rate."
+}

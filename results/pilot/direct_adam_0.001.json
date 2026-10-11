@@ -1,0 +1,30 @@
+{
+  "config": {
+    "kind": "direct",
+    "optimizer": "adam",
+    "lr": 0.001,
+    "wd": 0.0,
+    "seed": 100,
+    "steps": 5000,
+    "thresholds": [
+      0.1,
+      0.03,
+      0.01
+    ],
+    "log_every": 100
+  },
+  "initial_logit_error": 1.214306433183765e-16,
+  "stable": true,
+  "elapsed_seconds": 1.1735456250607967,
+  "crossings": {
+    "0.1": {
+      "step": 4078,
+      "train_ce": 0.09994955676630102
+    }
+  },
+  "final": {
+    "train_ce": 0.05717275645089523,
+    "train_accuracy": 1.0
+  },
+  "history": []
+}

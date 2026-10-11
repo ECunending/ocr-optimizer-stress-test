@@ -1,0 +1,38 @@
+{
+  "config": {
+    "kind": "direct",
+    "optimizer": "adam",
+    "lr": 0.01,
+    "wd": 0.0,
+    "seed": 100,
+    "steps": 5000,
+    "thresholds": [
+      0.1,
+      0.03,
+      0.01
+    ],
+    "log_every": 100
+  },
+  "initial_logit_error": 1.214306433183765e-16,
+  "stable": true,
+  "elapsed_seconds": 0.7541802499908954,
+  "crossings": {
+    "0.1": {
+      "step": 480,
+      "train_ce": 0.09978145841183213
+    },
+    "0.03": {
+      "step": 954,
+      "train_ce": 0.029997679722434518
+    },
+    "0.01": {
+      "step": 1769,
+      "train_ce": 0.009997476221218412
+    }
+  },
+  "final": {
+    "train_ce": 0.0009964297273992418,
+    "train_accuracy": 1.0
+  },
+  "history": []
+}

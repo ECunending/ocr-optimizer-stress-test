@@ -1,0 +1,7 @@
+{
+  "runs": 50,
+  "checkpoint_metrics_exactly_reproduced": true,
+  "threshold_checkpoints": 150,
+  "adam_adamw_full_trajectories_identical": true,
+  "max_metric_error": 0.0
+}
